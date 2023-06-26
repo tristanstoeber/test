@@ -1,0 +1,3 @@
+[submodule "NeuroSVG"]
+	path = NeuroSVG
+	url = https://github.com/tristanstoeber/NeuroSVG
